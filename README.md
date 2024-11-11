@@ -23,8 +23,7 @@
 <br />
 
 ## Glimpses:
-[![Demo](https://github.com/user-attachments/assets/1803708b-ef24-449e-a1d1-d80536f3881d
-    )]
+[![Demo]](https://github.com/user-attachments/assets/1803708b-ef24-449e-a1d1-d80536f3881d)
 
 ## Quick Start
 
